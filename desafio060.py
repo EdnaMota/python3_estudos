@@ -14,3 +14,5 @@ while c > 0:
     f *= c
     c -= 1 #c = c - 1 (tirar 1 do c)
 print(f'{f}.')
+
+#testando commit
