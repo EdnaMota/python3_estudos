@@ -1,0 +1,5 @@
+dia = int(input('Quantos dias alugados? '))
+dist = float(input('Quantos km rodados? '))
+vdia = (dia * 60)
+vkm = (dist * 0.15)
+print(f'O total a pagar é de R$ {(vdia + vkm):.2f}.')
